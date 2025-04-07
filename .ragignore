@@ -1,0 +1,14 @@
+# Exclude log files
+*.log
+
+# Exclude libs folder
+node_modules/
+venv/
+
+# Exclude all txt files in subfolders
+**/*.txt
+
+# Exclude specific folder
+build/
+git/
+git
